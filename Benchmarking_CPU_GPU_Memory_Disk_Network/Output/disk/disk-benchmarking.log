@@ -1,0 +1,478 @@
+***** Thread 1 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 3.650000 secs
+Block Size: 8 bytes
+Throughput: 280.547945 MB/secs
+Latency: 0.000027 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 27.840000 secs
+Block Size: 8 bytes
+Throughput: 36.781609 MB/secs
+Latency: 0.000207 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 5.160000 secs
+Block Size: 8 bytes
+Throughput: 198.449612 MB/secs
+Latency: 0.000038 millisecs
+
+****Write Random ***
+
+CPU Time Used: 126.410000 secs
+Block Size: 8 bytes
+Throughput: 8.100625 MB/secs
+Latency: 0.000942 millisecs
+
+
+***** Thread 1 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.430000 secs
+Block Size: 8192 bytes
+Throughput: 2381.395349 MB/secs
+Latency: 0.003281 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.180000 secs
+Block Size: 8192 bytes
+Throughput: 5688.888889 MB/secs
+Latency: 0.001373 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.970000 secs
+Block Size: 8192 bytes
+Throughput: 1055.670103 MB/secs
+Latency: 0.007401 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.960000 secs
+Block Size: 8192 bytes
+Throughput: 1066.666667 MB/secs
+Latency: 0.007324 millisecs
+
+
+***** Thread 1 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.590000 secs
+Block Size: 88388608 bytes
+Throughput: 1714.453125 MB/secs
+Latency: 49.166667 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.290000 secs
+Block Size: 88388608 bytes
+Throughput: 3488.025323 MB/secs
+Latency: 24.166667 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.510000 secs
+Block Size: 88388608 bytes
+Throughput: 1983.386949 MB/secs
+Latency: 42.500000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.700000 secs
+Block Size: 88388608 bytes
+Throughput: 1445.039062 MB/secs
+Latency: 58.333333 millisecs
+
+
+***** Thread 1 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.560000 secs
+Block Size: 83886080 bytes
+Throughput: 1714.285714 MB/secs
+Latency: 46.666667 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.280000 secs
+Block Size: 83886080 bytes
+Throughput: 3428.571429 MB/secs
+Latency: 23.333333 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.570000 secs
+Block Size: 83886080 bytes
+Throughput: 1684.210526 MB/secs
+Latency: 47.500000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.670000 secs
+Block Size: 83886080 bytes
+Throughput: 1432.835821 MB/secs
+Latency: 55.833333 millisecs
+
+
+***** Thread 2 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 3.640000 secs
+Block Size: 8 bytes
+Throughput: 281.318681 MB/secs
+Latency: 0.000027 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 70.460000 secs
+Block Size: 8 bytes
+Throughput: 14.533068 MB/secs
+Latency: 0.000525 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 5.530000 secs
+Block Size: 8 bytes
+Throughput: 185.171790 MB/secs
+Latency: 0.000041 millisecs
+
+****Write Random ***
+
+CPU Time Used: 250.730000 secs
+Block Size: 8 bytes
+Throughput: 4.084075 MB/secs
+Latency: 0.001868 millisecs
+
+
+***** Thread 2 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.370000 secs
+Block Size: 8192 bytes
+Throughput: 2767.567568 MB/secs
+Latency: 0.002823 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.210000 secs
+Block Size: 8192 bytes
+Throughput: 4876.190476 MB/secs
+Latency: 0.001602 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 1.970000 secs
+Block Size: 8192 bytes
+Throughput: 519.796954 MB/secs
+Latency: 0.015030 millisecs
+
+****Write Random ***
+
+CPU Time Used: 1.890000 secs
+Block Size: 8192 bytes
+Throughput: 541.798942 MB/secs
+Latency: 0.014420 millisecs
+
+
+***** Thread 2 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.480000 secs
+Block Size: 88388608 bytes
+Throughput: 2107.348633 MB/secs
+Latency: 40.000000 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.300000 secs
+Block Size: 88388608 bytes
+Throughput: 3371.757812 MB/secs
+Latency: 25.000000 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.570000 secs
+Block Size: 88388608 bytes
+Throughput: 1774.609375 MB/secs
+Latency: 47.500000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.600000 secs
+Block Size: 88388608 bytes
+Throughput: 1685.878906 MB/secs
+Latency: 50.000000 millisecs
+
+
+***** Thread 2 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.450000 secs
+Block Size: 83886080 bytes
+Throughput: 2133.333333 MB/secs
+Latency: 37.500000 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.290000 secs
+Block Size: 83886080 bytes
+Throughput: 3310.344828 MB/secs
+Latency: 24.166667 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.580000 secs
+Block Size: 83886080 bytes
+Throughput: 1655.172414 MB/secs
+Latency: 48.333333 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.640000 secs
+Block Size: 83886080 bytes
+Throughput: 1500.000000 MB/secs
+Latency: 53.333333 millisecs
+
+
+***** Thread 4 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 3.350000 secs
+Block Size: 8 bytes
+Throughput: 305.671642 MB/secs
+Latency: 0.000025 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 87.410000 secs
+Block Size: 8 bytes
+Throughput: 11.714907 MB/secs
+Latency: 0.000651 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 5.310000 secs
+Block Size: 8 bytes
+Throughput: 192.843691 MB/secs
+Latency: 0.000040 millisecs
+
+****Write Random ***
+
+CPU Time Used: 252.500000 secs
+Block Size: 8 bytes
+Throughput: 4.055446 MB/secs
+Latency: 0.001881 millisecs
+
+
+***** Thread 4 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.290000 secs
+Block Size: 8192 bytes
+Throughput: 3531.034483 MB/secs
+Latency: 0.002213 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.210000 secs
+Block Size: 8192 bytes
+Throughput: 4876.190476 MB/secs
+Latency: 0.001602 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 2.020000 secs
+Block Size: 8192 bytes
+Throughput: 506.930693 MB/secs
+Latency: 0.015411 millisecs
+
+****Write Random ***
+
+CPU Time Used: 1.380000 secs
+Block Size: 8192 bytes
+Throughput: 742.028986 MB/secs
+Latency: 0.010529 millisecs
+
+
+***** Thread 4 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.460000 secs
+Block Size: 88388608 bytes
+Throughput: 2198.972486 MB/secs
+Latency: 38.333333 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.320000 secs
+Block Size: 88388608 bytes
+Throughput: 3161.022949 MB/secs
+Latency: 26.666667 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.630000 secs
+Block Size: 88388608 bytes
+Throughput: 1605.598958 MB/secs
+Latency: 52.500000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.730000 secs
+Block Size: 88388608 bytes
+Throughput: 1385.653896 MB/secs
+Latency: 60.833333 millisecs
+
+
+***** Thread 4 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.440000 secs
+Block Size: 83886080 bytes
+Throughput: 2181.818182 MB/secs
+Latency: 36.666667 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.310000 secs
+Block Size: 83886080 bytes
+Throughput: 3096.774194 MB/secs
+Latency: 25.833333 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.650000 secs
+Block Size: 83886080 bytes
+Throughput: 1476.923077 MB/secs
+Latency: 54.166667 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.690000 secs
+Block Size: 83886080 bytes
+Throughput: 1391.304348 MB/secs
+Latency: 57.500000 millisecs
+
+
+***** Thread 8 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 3.450000 secs
+Block Size: 8 bytes
+Throughput: 296.811594 MB/secs
+Latency: 0.000026 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 91.840000 secs
+Block Size: 8 bytes
+Throughput: 11.149826 MB/secs
+Latency: 0.000684 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 6.090000 secs
+Block Size: 8 bytes
+Throughput: 168.144499 MB/secs
+Latency: 0.000045 millisecs
+
+****Write Random ***
+
+CPU Time Used: 259.590000 secs
+Block Size: 8 bytes
+Throughput: 3.944682 MB/secs
+Latency: 0.001934 millisecs
+
+
+***** Thread 8 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.240000 secs
+Block Size: 8192 bytes
+Throughput: 4266.666667 MB/secs
+Latency: 0.001831 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.260000 secs
+Block Size: 8192 bytes
+Throughput: 3938.461538 MB/secs
+Latency: 0.001984 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 1.640000 secs
+Block Size: 8192 bytes
+Throughput: 624.390244 MB/secs
+Latency: 0.012512 millisecs
+
+****Write Random ***
+
+CPU Time Used: 1.450000 secs
+Block Size: 8192 bytes
+Throughput: 706.206897 MB/secs
+Latency: 0.011063 millisecs
+
+
+***** Thread 8 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.300000 secs
+Block Size: 88388608 bytes
+Throughput: 2247.838542 MB/secs
+Latency: 37.500000 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.250000 secs
+Block Size: 88388608 bytes
+Throughput: 2697.406250 MB/secs
+Latency: 31.250000 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.450000 secs
+Block Size: 88388608 bytes
+Throughput: 1498.559028 MB/secs
+Latency: 56.250000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.490000 secs
+Block Size: 88388608 bytes
+Throughput: 1376.227679 MB/secs
+Latency: 61.250000 millisecs
+
+
+***** Thread 8 ******
+****Read and Write Sequentially***
+
+CPU Time Used: 0.310000 secs
+Block Size: 83886080 bytes
+Throughput: 2064.516129 MB/secs
+Latency: 38.750000 millisecs
+
+****Read and Write Random***
+
+CPU Time Used: 0.250000 secs
+Block Size: 83886080 bytes
+Throughput: 2560.000000 MB/secs
+Latency: 31.250000 millisecs
+
+****Write Sequentially ***
+
+CPU Time Used: 0.460000 secs
+Block Size: 83886080 bytes
+Throughput: 1391.304348 MB/secs
+Latency: 57.500000 millisecs
+
+****Write Random ***
+
+CPU Time Used: 0.490000 secs
+Block Size: 83886080 bytes
+Throughput: 1306.122449 MB/secs
+Latency: 61.250000 millisecs

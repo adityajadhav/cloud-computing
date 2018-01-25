@@ -1,0 +1,32 @@
+
+**** Network Benchmarking ****
+Internet Protocol: UDP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 1
+Latency:	 70.00 ms
+Throughput:	 36571.43 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: UDP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 2
+Latency:	 70.00 ms
+Throughput:	 36571.43 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: UDP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 4
+Latency:	 80.00 ms
+Throughput:	 32000.00 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: UDP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 8
+Latency:	 60.00 ms
+Throughput:	 42666.67 Mb/sec

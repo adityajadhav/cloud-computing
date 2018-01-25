@@ -1,0 +1,32 @@
+
+**** Network Benchmarking ****
+Internet Protocol: TCP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 1
+Latency:	 120.00 ms
+Throughput:	 21333.33 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: TCP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 2
+Latency:	 90.00 ms
+Throughput:	 28444.44 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: TCP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 4
+Latency:	 110.00 ms
+Throughput:	 23272.73 Mb/sec
+
+**** Network Benchmarking ****
+Internet Protocol: TCP
+Packet size:	 64KB
+Number of packets transferred:	 5000
+Number of threads:	 8
+Latency:	 120.00 ms
+Throughput:	 21333.33 Mb/sec

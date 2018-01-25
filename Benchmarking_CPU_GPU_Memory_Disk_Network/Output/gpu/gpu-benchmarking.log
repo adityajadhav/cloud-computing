@@ -1,0 +1,15 @@
+
+
+
+GIOPS Result
+Threads: 3072
+CPU Time Used: 0.750000 ms
+Number of IOPS: 5333333333333.333984
+Number of GIOPS: 5333.333333
+
+
+GFLOPS Result
+Threads: 3072
+CPU Time Used: 0.880000 ms
+Number of FLOPS: 4545454545454.544922
+Number of GFLOPS: 4545.454545
