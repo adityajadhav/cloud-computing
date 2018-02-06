@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: neo
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Main-Class: com.ajadhav4.cloud.terasortsharedmemory.SharedMemorySortMa
+ in
+

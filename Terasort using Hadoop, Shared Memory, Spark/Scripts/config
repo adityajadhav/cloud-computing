@@ -1,0 +1,32 @@
+Host namenode
+  HostName ec2-35-153-100-63.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode1
+  HostName ec2-52-91-30-116.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode2
+  HostName ec2-52-202-137-181.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode3
+  HostName ec2-54-236-14-253.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode4
+  HostName ec2-34-229-41-158.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode5
+  HostName ec2-35-153-176-136.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode6
+  HostName ec2-107-22-14-109.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key
+Host datanode7
+  HostName ec2-107-22-14-109.compute-1.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/pem_key

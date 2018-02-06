@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+	<property>
+	    <name>mapreduce.job.tracker</name>
+	    <value>hdfs://ec2-54-157-25-74.compute-1.amazonaws.com:9001</value>
+	</property>
+	<property>
+	    <name>mapreduce.framework.name</name>
+	    <value>yarn</value>
+	</property>
+</configuration>
